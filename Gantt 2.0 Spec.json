@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "description": "Dataviz by David Bacci: https://www.linkedin.com/in/davbacci/",
+  "description": "jose mollan",
   "autosize": "pad",
   "width": 1200,
   "padding": {"left": 5, "right": 0, "top": 5, "bottom": 0},
